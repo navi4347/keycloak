@@ -1,3 +1,4 @@
+
 const Protected = () => {
   return (
     <div>
@@ -6,4 +7,4 @@ const Protected = () => {
   )
 }
 
-export default Protected;
+export default Protected
